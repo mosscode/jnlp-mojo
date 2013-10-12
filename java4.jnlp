@@ -1,0 +1,14 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<jnlp codebase="CODEBASE" href="HREF">
+	<information> 
+		<title>TITLE</title>
+		<vendor>VENDOR</vendor>
+	</information>
+	<update check="always" policy="always"/>
+	<resources>
+		<j2se version="1.4" initial-heap-size="256m" max-heap-size="512m" href="http://java.sun.com/products/autodl/j2se"/>
+JARS
+	</resources>
+	<application-desc main-class="MAIN_CLASS">
+	</application-desc>
+</jnlp>
